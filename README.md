@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @LeviPablo aka Shadow Ghost 
-- 👀 I’m interested in CyberSecurity / Ethical hacking 
-- 🌱 I’m currently learning python, html, kail Linux, Linux, Javascript software engineer development skills 
+- 👋 Hello, I’m @LeviPablo aka Shadow Ghost Cyber 
+- 👀 I’m interested in CyberSecurity / Ethical hacking .
+- 🌱 I’m currently learning python, html, kail Linux, bash, Javascript software engineer  and development skills .
 - 💞️ I’m looking to collaborate on  SQL Data Entry-level and I'm trying to apply to Red teaming  projects 
 - 📫 How to reach me  email: LeviPablo93@gmail.com 
 - 😄 Name Pronouns: Levi Pablo 
